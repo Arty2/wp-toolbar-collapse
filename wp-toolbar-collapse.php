@@ -6,7 +6,7 @@ Description: A tiny WordPress plugin that collapses the Toolbar (previously know
 Author: Heracles Papatheodorou
 License: MIT License
 GitHub Plugin URI: https://github.com/Arty2/wp-toolbar-collapse
-Version: 1.0.0
+Version: 1.0.1
 */
 
 	function wp_toolbar_collapse() {
